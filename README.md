@@ -4,4 +4,4 @@ WebGL renderer for raymarching of signed distance fields. Go to line 120 where t
 
 https://jsfiddle.net/OscarSaharoy/xkwmsva0/
 
-![](https://github.com/OscarSaharoy/SDF-Renderer/blob/main/spheres.jpg)
+![](https://github.com/OscarSaharoy/SDF-Renderer/blob/main/picture.jpg)
